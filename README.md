@@ -1,2 +1,3 @@
-https://ollama.com/ /n
+https://ollama.com/   
+
 Chatgpt.com/?oai-dm=1
