@@ -1,3 +1,3 @@
 https://ollama.com/   
 
-Chatgpt.com/?oai-dm=1
+https://Chatgpt.com/?oai-dm=1
